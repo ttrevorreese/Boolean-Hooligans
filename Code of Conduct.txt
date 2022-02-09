@@ -35,11 +35,11 @@ Attendance
 Signatures
 
 
-Team Leader
+Team Leader:
    Trevor Reese
-Secondary Team Leader
+Secondary Team Leader:
    Matthew Lowrie
-Scrum Master
+Scrum Master:
 	
-Product Owner
+Product Owner:
 	Sayeed Yahya

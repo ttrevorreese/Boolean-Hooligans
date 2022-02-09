@@ -36,7 +36,7 @@ Signatures
 
 
 Team Leader
-	Trevor Reese
+   Trevor Reese
 Secondary Team Leader
    Matthew Lowrie
 Scrum Master

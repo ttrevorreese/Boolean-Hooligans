@@ -38,7 +38,7 @@ Signatures
 Team Leader
 	Trevor Reese
 Secondary Team Leader
-	
+   Matthew Lowrie
 Scrum Master
 	
 Product Owner

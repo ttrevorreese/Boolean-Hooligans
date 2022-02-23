@@ -40,6 +40,6 @@ Team Leader:
 Secondary Team Leader:
    Matthew Lowrie
 Scrum Master:
-	
+	Mandev Seahra
 Product Owner:
 	Sayeed Yahya

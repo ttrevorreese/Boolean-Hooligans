@@ -1,6 +1,6 @@
-**Sprint 2 Meeting Minutes**
+# Sprint 2 Meeting Minutes
 
-Week 4
+## Week 4
 
 This week is dedicated to cleaning up and fixing mistakes that took place in the first
 sprint. We now have a clearer understanding of the scope of the project and also how to
@@ -17,7 +17,7 @@ utilize the proper tools to stay organized in this environment.
 		integration of Zube.io, as well as how they help with the organization of tasks that
 		need to be completed. We also discussed the organization of next week.
 
-Week 5
+## Week 5
 
 We are aiming to finish the work for Sprint 2 by the end of this week. We want to be done
 with the work by the next lab session so we can get as much feedback from the customer
@@ -44,7 +44,7 @@ and the use case diagram defined.
 		meeting, as well as our presentation for the next submission. We have the
 		organization planned out for the rest of the sprint and the beginning of the next.
 
-Week 6
+## Week 6
 
 This week is dedicated to finalizing all of the work for Sprint 2, submit this work, and 
 begin the work for Sprint 3 after our session on Wednesday, 23 February. We want to get 
@@ -69,7 +69,7 @@ done.
 		diagrams will help make our tasks more understandable to the customer(s), who
 		may not have the same understanding of programming and software engineering.
 
-Week 7
+## Week 7
 
 This week is dedicated to finishing the work required for the Sprint 2 submission, as well
 as beginning work for Sprint 3. The submission date has changed, therefore there is more

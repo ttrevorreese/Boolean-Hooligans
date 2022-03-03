@@ -1,12 +1,12 @@
-**Sprint 1 Meeting Minutes**
+# Sprint 1 Meeting Minutes
 
-Week 1
+## Week 1
 
 This week is dedicated to determining the group for the group project. Not much work at
 all is done this week because we are still learning about the coursework and deciding on
 our groups.
 
-Week 2
+## Week 2
 
 This week is dedicated to getting everything for the project laid out and organized. The
 member roles have been decided and individual workload is discussed. Meetings are
@@ -28,7 +28,7 @@ discussed and agreed upon. Our goal is to complete everything for Sprint 1 this 
 	 	We started the product backlog as a group and began to discuss the requirements
 	 	of the dockerfile, as none of us had any prior knowledge about the dockerfile.
 
-Week 3
+## Week 3
 
 This week is dedicated to finalizing all of the work needed to complete the submission 
 for the first sprint. There is not much work to do in general, but the initial setup and 

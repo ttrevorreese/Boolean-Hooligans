@@ -85,3 +85,8 @@ submit.
 		starting once we submit the work for Sprint 2. We set up the Kanban/Sprint board
 		so that we have all of the bits and pieces laid out and organized so we can
 		visualize what needs to be done.
+		
+	Meeting 3 - 04 March
+		We began to reformat the work done in Sprint 1 in order to have better
+		organization within GitHub. PDFs and DOCXs are not well-supported, so we began
+		conversion to MD (markdown) files. This is to be done by submission time.

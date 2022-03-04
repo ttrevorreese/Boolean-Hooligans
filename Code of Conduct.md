@@ -38,6 +38,6 @@ _Trevor Reese_
 ### Secondary Team Leader:
 _Signature_
 ### Scrum Master:
-_Signature_
+_Mandev Seahra_
 ### Product Owner:
 _Signature_

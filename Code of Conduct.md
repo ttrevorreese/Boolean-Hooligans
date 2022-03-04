@@ -36,7 +36,7 @@ The code of conduct is to be agreed upon, followed, and upheld by each member of
 ### Team Leader:
 _Trevor Reese_
 ### Secondary Team Leader:
-_Signature_
+_Matthew Lowrie_
 ### Scrum Master:
 _Mandev Seahra_
 ### Product Owner:

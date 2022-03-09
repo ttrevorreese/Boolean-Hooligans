@@ -16,7 +16,7 @@ The organization this project is aimed towards requires reporting on population 
 -
 
 ## Build Structure
-This project is built upon the following structures:
+This project is *to be* built upon the following structures:
 - Web front-end using PUG
 - Web back-end running via Node.js
 - Front-end and back-end communcation via Express.js

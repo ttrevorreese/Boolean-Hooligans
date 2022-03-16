@@ -27,5 +27,11 @@ This project is *to be* built upon the following structures:
 ## Installation
 -
 
+## Contributors
+- [Trevor Reese](https://github.com/ttrevorreese)
+- [Matthew Lowrie](https://github.com/MatthewLowrie)
+- [Mandev Seahra](https://github.com/mseahra)
+- [Sayeed Bin Yahya](https://github.com/Sparx4life7xxx)
+
 ## Credits
 We want to extend a big thank you to our lecturer and project overseer, **Dr. Sobhan Y. Tehrani**, who has been instrumental to the organization and structure of this project.

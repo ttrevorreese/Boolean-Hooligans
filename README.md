@@ -27,6 +27,25 @@ This project is *to be* built upon the following structures:
 ## Installation
 -
 
+## Programming Languages and Tools
+<img align="left" alt="JavaScript" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg style="padding-right:10px;"/>
+<img align="left" alt="MySQL" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg style="padding-right:10px;"/>
+<img align="left" alt="Ruby" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-original.svg style="padding-right:10px;"/>
+<img align="left" alt="HTML5" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg style="padding-right:10px;"/>
+<img align="left" alt="CSS" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg style="padding-right:10px;"/>
+<img align="left" alt="Docker" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Travis" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/travis/travis-plain.svg style="padding-right:10px;"/>
+<img align="left" alt="Node.JS" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg style="padding-right:10px;"/>
+<img align="left" alt="Express.JS" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg style="padding-right:10px;"/>
+<img align="left" alt="Markdown" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg style="padding-right:10px;"/>
+
+
+<br />
+<br />
+
 ## Contributors
 - [Trevor Reese](https://github.com/ttrevorreese)
 - [Matthew Lowrie](https://github.com/MatthewLowrie)

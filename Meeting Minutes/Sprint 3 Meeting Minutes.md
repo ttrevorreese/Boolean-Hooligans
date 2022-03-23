@@ -41,7 +41,7 @@ the database into the website.
 
 ## Week 10
 
-This week is ...
+This week is about finalizing our work for this sprint.
 
 	Meeting 1 - 20 March
 		We had another check-in meeting where we discussed everything we have done in

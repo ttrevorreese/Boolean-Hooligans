@@ -38,6 +38,6 @@ _Trevor Reese_
 ### Secondary Team Leader:
 _Matthew Lowrie_
 ### Scrum Master:
-_Mandev Seahra_
+_Mandev Singh Seahra_
 ### Product Owner:
 _Sayeed Yahya_

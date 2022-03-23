@@ -3,6 +3,13 @@
 
 This is the repository for the Software Engineering Group Coursework with the Boolean Hooligans at the University of Roehampton in Year 2 of the Computer Science BSc course.
 
+## Company
+
+The mock company we have created to work with this data is called Infowink, where we provide information within the blink of an eye.
+<p align="center">
+  <img width="500" height="500" src="https://github.com/ttrevorreese/Boolean-Hooligans/blob/41dfbd03ccd9c3c31fd8f1ebc4865b56948f9e78/Logos/Infowink%20Logo%20-%20Blue%20with%20Text.png">
+</p>
+
 ## Project Scope
 This project is aimed at creating an application for the _smooth_ and _efficient_ operation of a business.
 
@@ -13,7 +20,11 @@ The project is largely focused on back-end organization and structure of the pro
 The organization this project is aimed towards requires reporting on population information. We have been tasked with designing and implementing a new system to allow easy access to population information. We are required to generate a multitude of different reports for the organization to access.
 
 ## Key Features
--
+- User-friendly interface
+- Basic website design that has options to fulfill customer requirements
+- Database implementation with applicable filters for understandable reading of information
+- Web design using PUG for clean syntax
+- Extra options and usability for users
 
 ## Build Structure
 This project is *to be* built upon the following structures:
@@ -25,7 +36,7 @@ This project is *to be* built upon the following structures:
 - Application is deployable as a Docker container
 
 ## Installation
--
+- *In progress*
 
 ## Programming Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg style="padding-right:10px;"/>

@@ -29,7 +29,7 @@ nav {
 nav a {
     text-decoration: none;
     font-size: 20px;
-    color: #fff;
+    color: #000;
     text-transform: uppercase;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -38,7 +38,7 @@ nav a {
 .title{
     text-align: center;
     text-transform: uppercase;
-    color: #fff;
+    color: #000;
     margin: 10px 0;
     position: relative;
 

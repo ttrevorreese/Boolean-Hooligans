@@ -38,6 +38,9 @@ This project is *to be* built upon the following structures:
 ## Installation
 - *In progress*
 
+## Bug Reporting
+If there are any bugs or issues with the program or installation, please use the issues tab located within this GitHub repository. This will make it easy for user communication with us developers, as we will be able to locate the bug(s) and try to create a solution as fast as possible.
+
 ## Programming Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="26px" src=https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg style="padding-right:10px;"/>

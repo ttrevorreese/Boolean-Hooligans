@@ -48,7 +48,7 @@ nav a {
     content: "";
     position: absolute;
     width: 20%; height: 2px;
-    background-image: linear-gradient(to left, transparent 5%, #fff);
+    background-image: linear-gradient(to left, transparent 5%, #000);
     bottom: -10px;
     left: 50%;
     transform: translate(-50%);
@@ -88,14 +88,14 @@ nav a {
 .member h2{
     text-transform: uppercase;
     font-size: 24px;
-    color: #fff;
+    color: #000;
     margin: 15px 0;
 
 }
 
 .member p{
     font-size: 15px;
-    color: #fff;
+    color: #000;
     line-height: 1.6;
 }
 

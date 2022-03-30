@@ -1,9 +1,3 @@
-<?php 
-include_once('Connection.php'); 
-$query="select * from city"; 
-$result=mysql_query($query); 
-?> 
-
 <!DOCTYPE html>
 <html lang = "en">
 <head>
@@ -12,6 +6,12 @@ $result=mysql_query($query);
     <link rel='stylesheet' href ="about us.css">
     
 </head>
+
+<?php 
+include_once('Connection.php'); 
+$query="select * from city"; 
+$result=mysql_query($query); 
+?> 
 <body>
 
     <nav>

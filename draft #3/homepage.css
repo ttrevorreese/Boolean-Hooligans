@@ -22,7 +22,7 @@ nav {
   justify-content: center;
   flex-direction: column;
   font-size: 2vw;
-  color: #fff;
+  color: #000;
 
 }
 
@@ -30,7 +30,7 @@ nav {
 nav a {
   text-decoration: none;
   font-size: 20px;
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   font-weight: bold;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -51,19 +51,19 @@ nav a {
 .btn{
   text-decoration: none;
   padding: 10px 45px;
-  color: #fff;
-  border: 2px solid #fff;
+  color: #000;
+  border: 2px solid #000;
   transition: .6s;
   animation: animate 2s 1;
 }
 
 .btn:hover{
-  background-color: #fff;
+  background-color: #000;
   color: #262626;
 }
 
 .nav :hover{
-  background-color: #fff;
+  background-color: #000;
   color: #262626;
 }
 

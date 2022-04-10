@@ -7,8 +7,8 @@
             "preLaunchTask": "docker-run: debug",
             "platform": "node",
             "node": {
-                "package": "${workspaceFolder}/Boolean-Hooligans/Transition Test/package.json",
-                "localRoot": "${workspaceFolder}/Boolean-Hooligans/Transition Test"
+                "package": "${workspaceFolder}/Transition Test/package.json",
+                "localRoot": "${workspaceFolder}/Transition Test"
             }
         }
     ]

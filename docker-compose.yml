@@ -4,9 +4,9 @@ services:
   booleanhooligans:
     image: booleanhooligans
     build:
-      context: Boolean-Hooligans/Transition Test
+      context: Transition Test
       dockerfile: ./Dockerfile
     environment:
       NODE_ENV: production
     ports:
-      - 3000:3000
+      - 8000:8000

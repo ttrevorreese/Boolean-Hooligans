@@ -6,12 +6,12 @@
 			"label": "docker-build",
 			"platform": "node",
 			"dockerBuild": {
-				"dockerfile": "${workspaceFolder}/Boolean-Hooligans/Transition Test/Dockerfile",
-				"context": "${workspaceFolder}/Boolean-Hooligans/Transition Test",
+				"dockerfile": "${workspaceFolder}/Transition Test/Dockerfile",
+				"context": "${workspaceFolder}/Transition Test",
 				"pull": true
 			},
 			"node": {
-				"package": "${workspaceFolder}/Boolean-Hooligans/Transition Test/package.json"
+				"package": "${workspaceFolder}/Transition Test/package.json"
 			}
 		},
 		{
@@ -22,7 +22,7 @@
 			],
 			"platform": "node",
 			"node": {
-				"package": "${workspaceFolder}/Boolean-Hooligans/Transition Test/package.json"
+				"package": "${workspaceFolder}/Transition Test/package.json"
 			}
 		},
 		{
@@ -38,7 +38,7 @@
 				}
 			},
 			"node": {
-				"package": "${workspaceFolder}/Boolean-Hooligans/Transition Test/package.json",
+				"package": "${workspaceFolder}/Transition Test/package.json",
 				"enableDebugging": true
 			}
 		}

@@ -1,4 +1,9 @@
+<php
+    include_once 'Database/database.php';
+
+?>
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -20,9 +25,38 @@
 			<div class="center">
 			<h1>Welcome To Infowink</h1>
 			<h2>Information in a blink of an eye</h2>
+				<table>
+				<tr>
+				<th>Id</th>
+				<th>Name</th>
+				<th>CountryCode</th>
+				<th>District</th>
+				<th>Population</th>
+				</tr>
+				<?php
+				$conn = mysqli_connect("localhost", "root", "", "world");
+				// Check connection
+				if ($conn->connect_error) {
+				die("Connection failed: " . $conn->connect_error);
+				}
+				$sql = "SELECT ID, Name, CountryCode, District, Population FROM city";
+				$result = $conn->query($sql);
+				if ($result->num_rows > 0) {
+				// output data of each row
+				while($row = $result->fetch_assoc()) {
+				echo "<tr><td>" . $row["ID"]. "</td><td>" . $row["Name"] . "</td><td>"
+				. $row["CountryCode"]. "</td></tr>" . $row["District"]. "</td></tr>" . $row["Population"]. "</td></tr>";
+				}
+				echo "</table>";
+				} else { echo "0 results"; }
+				$conn->close();
+				?>
+				</table>
+	
 			
 			
 		</div>
-		</div>
+	</div>
+	
 </body>
 </html>

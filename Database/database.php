@@ -1,6 +1,6 @@
 <?php
 $dbservername = "localhost";
 $dbuserName = "root";
-$dbpassword = "";
+$dbpassword = "root";
 $dbName = "world";
 $conn = new mysqli($dbservername, $dbuserName, $dbpassword, $dbName);

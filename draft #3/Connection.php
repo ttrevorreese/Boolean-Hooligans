@@ -1,4 +1,6 @@
-<?php 
-mysql_connect('localhost','root',''); 
-mysql_select_db('world'); 
-?>
+<?php
+$dbservername = "localhost";
+$dbuserName = "root";
+$dbpassword = "root";
+$dbName = "world";
+$conn = new mysqli($dbservername, $dbuserName, $dbpassword, $dbName);

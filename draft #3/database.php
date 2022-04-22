@@ -1,6 +1,19 @@
 <?php
-$dbservername = "localhost";
-$dbuserName = "root";
-$dbpassword = "root";
-$dbName = "world";
-$conn = new mysqli($dbservername, $dbuserName, $dbpassword, $dbName);
+function OpenCon()
+ {
+ $dbhost = "localhost";
+ $dbuser = "root";
+ $dbpass = "";
+ $db = "world";
+ $conn = new mysqli($dbhost, $dbuser, $dbpass,$db) or die("Connect failed: %s\n". $conn -> error);
+ 
+ return $conn;
+ }
+ 
+function CloseCon($conn)
+ {
+ $conn -> close();
+ }
+   
+?>
+

@@ -67,6 +67,11 @@ nav a {
   color: #262626;
 }
 
+.sub-menu-1
+{
+  display: none;
+}
+
 
 @keyframes animate{
   0% {

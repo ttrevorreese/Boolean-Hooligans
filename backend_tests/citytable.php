@@ -38,7 +38,7 @@ or die('Error connecting to MySQL server.');
       <td><?php echo $rows['Name']; ?></td> 
       <td><?php echo $rows['CountryCode']; ?></td> 
       <td><?php echo $rows['District']; ?></td> 
-      <td><?php echo $rows['District']; ?></td>
+      <td><?php echo $rows['Population']; ?></td>
         </tr> 
 	<?php 
                } 
@@ -47,9 +47,4 @@ or die('Error connecting to MySQL server.');
 
 	</table> 
 	</body> 
-</html><tr> <td><?php echo $rows['ID']; ?></td> 
-      <td><?php echo $rows['Name']; ?></td> 
-      <td><?php echo $rows['CountryCode']; ?></td> 
-      <td><?php echo $rows['District']; ?></td> 
-      <td><?php echo $rows['District']; ?></td>
-        </tr> 
+</html>

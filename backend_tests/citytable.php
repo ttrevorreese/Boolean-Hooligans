@@ -6,13 +6,12 @@ or die('Error connecting to MySQL server.');
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="table.css">
 </head>
 <body> 
-	<table align="center" border="1px" style="width:600px; line-height:40px;"> 
+	<table> 
 	<tr> 
-		<th colspan="4" align="center" border="1px" style="width:600px; line-height:40px;"><h2align="center" border="1px" style="width:600px; line-height:40px;">
-    Population Records</h2></th> 
+	  <h1>Cities Population Records</h1>
 		</tr> 
 			  <th> ID </th> 
 			  <th> Name </th> 
@@ -24,7 +23,7 @@ or die('Error connecting to MySQL server.');
 		
 		<?php 
     //Step2
-    $query = "SELECT * FROM city";
+    $query = "SELECT * FROM city Order By Population desc";
     mysqli_query($db, $query) or die('Error querying database.');
     //Step3
     $result = mysqli_query($db, $query);

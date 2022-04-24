@@ -2,6 +2,11 @@
 //Step1
 $db = mysqli_connect('localhost','root','','world')
 or die('Error connecting to MySQL server.');
+$query = "SELECT * FROM country order by Population desc";
+    mysqli_query($db, $query) or die('Error querying database.');
+    //Step3
+    $result = mysqli_query($db, $query);
+    $row = mysqli_fetch_array($result);
 ?>
 <!DOCTYPE html>
 <html>
@@ -15,10 +20,29 @@ or die('Error connecting to MySQL server.');
 		</tr> 
 			  <th> ID </th> 
 			  <th> Name </th> 
-			  <th> Continent </th> 
-			  <th> Region </th> 
-              <th> Population </th> 
-              <th> Capital </th> 
+			  <th> Continent
+          <select name = 'Continent'>
+            <?php
+            while($rows=mysqli_fetch_assoc($result))
+            {
+              ?>
+              <option><?php echo $rows['Continent']; ?></option>
+            <?php
+            }
+            ?>
+          </select> </th> 
+			  <th> Region <select name = 'Region'>
+            <?php
+            while($rows=mysqli_fetch_assoc($result))
+            {
+              ?>
+              <option><?php echo $rows['Region']; ?></option>
+            <?php
+            }
+            ?>
+          </select> </th> 
+        <th> Population </th> 
+        <th> Capital </th> 
 			  
 		</tr> 
 		
@@ -29,6 +53,7 @@ or die('Error connecting to MySQL server.');
     //Step3
     $result = mysqli_query($db, $query);
     $row = mysqli_fetch_array($result);
+    
    
     
     while($rows=mysqli_fetch_assoc($result)) 
@@ -45,7 +70,9 @@ or die('Error connecting to MySQL server.');
                } 
               
           ?> 
+  
 
 	</table> 
+  <script src="tablesort.js"></script>
 	</body> 
 </html>

@@ -2,6 +2,12 @@
 //Step1
 $db = mysqli_connect('localhost','root','','world')
 or die('Error connecting to MySQL server.');
+$query = "SELECT * FROM city Order By Population desc";
+    mysqli_query($db, $query) or die('Error querying database.');
+    //Step3
+    $result = mysqli_query($db, $query);
+    $row = mysqli_fetch_array($result);
+   
 ?>
 <!DOCTYPE html>
 <html>
@@ -16,7 +22,16 @@ or die('Error connecting to MySQL server.');
 			  <th> ID </th> 
 			  <th> Name </th> 
 			  <th> CountryCode </th> 
-			  <th> District </th> 
+			  <th> District <select name = 'District'>
+            <?php
+            while($rows=mysqli_fetch_assoc($result))
+            {
+              ?>
+              <option><?php echo $rows['District']; ?></option>
+            <?php
+            }
+            ?>
+          </select></th> 
         <th> Population </th> 
 			  
 		</tr> 

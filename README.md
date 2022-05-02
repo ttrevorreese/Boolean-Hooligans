@@ -27,7 +27,7 @@ The organization this project is aimed towards requires reporting on population 
 - Extra options and usability for users
 
 ## Build Structure
-This project is *to be* built upon the following structures:
+This project is built upon the following structures:
 - Web front-end using PUG
 - Web back-end running via Node.js
 - Front-end and back-end communcation via Express.js
@@ -36,7 +36,7 @@ This project is *to be* built upon the following structures:
 - Application is deployable as a Docker container
 
 ## Installation
-- *In progress*
+- Deploy the application using the Docker container, building it in the command line
 
 ## Bug Reporting
 If there are any bugs or issues with the program or installation, please use the issues tab located within this GitHub repository. This will make it easy for user communication with us developers, as we will be able to locate the bug(s) and try to create a solution as fast as possible.
